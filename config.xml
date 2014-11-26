@@ -7,7 +7,7 @@
 		versionCode = "1"
         version   	= "1.0.0">
 
-    <name>Audio Capture</name>
+    <name>Camera Capture</name>
 
     <description>
        Demo on the PhoneGap Campera API
